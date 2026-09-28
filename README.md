@@ -32,4 +32,4 @@ skill matching, experience, and education signals.
 
 `Machine Learning` · `Deep Learning` · `NLP` · `RAG` ·
 `Recommendation Systems` · `MLOps` · `FastAPI` · `PostgreSQL` ·
-`Docker` · `Explainable AI`
+`Docker` · `Explainable AI` · `Bioinformatics`
