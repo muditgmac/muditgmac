@@ -2,12 +2,6 @@
 
 **Machine Learning · Data Science · Applied AI**
 
-## Areas I Work In
-
-`Machine Learning` · `Deep Learning` · `NLP` · `RAG` ·
-`Recommendation Systems` · `MLOps` · `FastAPI` · `PostgreSQL` ·
-`Docker` · `Explainable AI` · `Bioinformatics`
-
 IIT Kanpur B.Tech–M.Tech | UC San Diego graduate research experience
 
 I build production-oriented machine-learning systems spanning
@@ -34,3 +28,8 @@ metadata persistence.
 Explainable hybrid job-ranking system combining semantic similarity,
 skill matching, experience, and education signals.
 
+## Areas I Work In
+
+`Machine Learning` · `Deep Learning` · `NLP` · `RAG` ·
+`Recommendation Systems` · `MLOps` · `FastAPI` · `PostgreSQL` ·
+`Docker` · `Explainable AI` · `Bioinformatics`
